@@ -1,0 +1,212 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xml:base="https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/">
+    <id>https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/Uft_detailsSet</id>
+    <title type="text">Uft_detailsSet</title>
+    <updated>2026-10-01T08:25:18Z</updated>
+    <author>
+        <name/>
+    </author>
+    <link href="Uft_detailsSet" rel="self" title="Uft_detailsSet"/>
+    <entry>
+        <id>https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/Uft_detailsSet('01')</id>
+        <title type="text">Uft_detailsSet('01')</title>
+        <updated>2026-10-01T08:25:18Z</updated>
+        <category term="ZGTA_ODATA_SRV.Uft_details" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link href="Uft_detailsSet('01')" rel="self" title="Uft_details"/>
+        <content type="application/xml">
+            <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+                <d:UFT_ID>01</d:UFT_ID>
+                <d:PATH_ID_DESC>GAIL-IGGL-Z3</d:PATH_ID_DESC>
+                <d:UNFD_EN_PNT>DAHEJ</d:UNFD_EN_PNT>
+                <d:UNFD_EX_PNT>RT,NRL</d:UNFD_EX_PNT>
+                <d:DELIVERY_PNT>RT,NRL</d:DELIVERY_PNT>
+                <d:TOTAL_KM>1201.000</d:TOTAL_KM>
+                <d:ZONE_PNGRB>ZONE3</d:ZONE_PNGRB>
+                <d:TARIFF_APP>106.77</d:TARIFF_APP>
+                <d:PRICE_APP_DATE>20251111</d:PRICE_APP_DATE>
+                <d:VALID_FROM>20251111</d:VALID_FROM>
+                <d:VALID_TO>20260731</d:VALID_TO>
+                <d:TRANSPORTER>IGGL</d:TRANSPORTER>
+                <d:SHARED_KM>0.000</d:SHARED_KM>
+                <d:UFT_RATIO>73.98</d:UFT_RATIO>
+                <d:INVOICE_AMT>78.99</d:INVOICE_AMT>
+                <d:IGGL_ZN_ID>ZONE2/001</d:IGGL_ZN_ID>
+                <d:REV_ENTITLED>166.64</d:REV_ENTITLED>
+                <d:APPLICABLE_DATE>20251111</d:APPLICABLE_DATE>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/Uft_detailsSet('133')</id>
+        <title type="text">Uft_detailsSet('133')</title>
+        <updated>2026-10-01T08:25:18Z</updated>
+        <category term="ZGTA_ODATA_SRV.Uft_details" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link href="Uft_detailsSet('133')" rel="self" title="Uft_details"/>
+        <content type="application/xml">
+            <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+                <d:UFT_ID>133</d:UFT_ID>
+                <d:PATH_ID_DESC>IGGL-GAIL Z2</d:PATH_ID_DESC>
+                <d:UNFD_EN_PNT>DAHEJ</d:UNFD_EN_PNT>
+                <d:UNFD_EX_PNT>RT,NRL</d:UNFD_EX_PNT>
+                <d:DELIVERY_PNT>RT,NRL</d:DELIVERY_PNT>
+                <d:TOTAL_KM>1201.000</d:TOTAL_KM>
+                <d:ZONE_PNGRB>ZONE2</d:ZONE_PNGRB>
+                <d:TARIFF_APP>102.86</d:TARIFF_APP>
+                <d:PRICE_APP_DATE>20260101</d:PRICE_APP_DATE>
+                <d:VALID_FROM>20260101</d:VALID_FROM>
+                <d:VALID_TO>99991231</d:VALID_TO>
+                <d:TRANSPORTER>IGGL</d:TRANSPORTER>
+                <d:SHARED_KM>0.000</d:SHARED_KM>
+                <d:UFT_RATIO>73.98</d:UFT_RATIO>
+                <d:INVOICE_AMT>78.99</d:INVOICE_AMT>
+                <d:IGGL_ZN_ID>ZONE2/001</d:IGGL_ZN_ID>
+                <d:REV_ENTITLED>166.64</d:REV_ENTITLED>
+                <d:APPLICABLE_DATE>20251111</d:APPLICABLE_DATE>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/Uft_detailsSet('UFT%20132')</id>
+        <title type="text">Uft_detailsSet('UFT%20132')</title>
+        <updated>2026-10-01T08:25:18Z</updated>
+        <category term="ZGTA_ODATA_SRV.Uft_details" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link href="Uft_detailsSet('UFT%20132')" rel="self" title="Uft_details"/>
+        <content type="application/xml">
+            <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+                <d:UFT_ID>UFT 132</d:UFT_ID>
+                <d:PATH_ID_DESC>IGGL-GAIL Z1</d:PATH_ID_DESC>
+                <d:UNFD_EN_PNT>BAIHATA</d:UNFD_EN_PNT>
+                <d:UNFD_EX_PNT>SV 05 OF GNPL, TEZPUR</d:UNFD_EX_PNT>
+                <d:DELIVERY_PNT>SV 05 OF GNPL, TEZPUR</d:DELIVERY_PNT>
+                <d:TOTAL_KM>122.000</d:TOTAL_KM>
+                <d:ZONE_PNGRB>ZONE1</d:ZONE_PNGRB>
+                <d:TARIFF_APP>54.00</d:TARIFF_APP>
+                <d:PRICE_APP_DATE>20260312</d:PRICE_APP_DATE>
+                <d:VALID_FROM>20260313</d:VALID_FROM>
+                <d:VALID_TO>99991231</d:VALID_TO>
+                <d:TRANSPORTER>IGGL</d:TRANSPORTER>
+                <d:SHARED_KM>0.000</d:SHARED_KM>
+                <d:UFT_RATIO>73.98</d:UFT_RATIO>
+                <d:INVOICE_AMT>78.99</d:INVOICE_AMT>
+                <d:IGGL_ZN_ID>ZONE2/001</d:IGGL_ZN_ID>
+                <d:REV_ENTITLED>166.64</d:REV_ENTITLED>
+                <d:APPLICABLE_DATE>20251111</d:APPLICABLE_DATE>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/Uft_detailsSet('UFT%20621')</id>
+        <title type="text">Uft_detailsSet('UFT%20621')</title>
+        <updated>2026-10-01T08:25:18Z</updated>
+        <category term="ZGTA_ODATA_SRV.Uft_details" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link href="Uft_detailsSet('UFT%20621')" rel="self" title="Uft_details"/>
+        <content type="application/xml">
+            <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+                <d:UFT_ID>UFT 621</d:UFT_ID>
+                <d:PATH_ID_DESC>IGGL-GAIL CGD SPL UFT Z1</d:PATH_ID_DESC>
+                <d:UNFD_EN_PNT>BAIHATA</d:UNFD_EN_PNT>
+                <d:UNFD_EX_PNT>SV 05 OF GNPL, TEZPUR</d:UNFD_EX_PNT>
+                <d:DELIVERY_PNT>SV 05 OF GNPL, TEZPUR</d:DELIVERY_PNT>
+                <d:TOTAL_KM>122.000</d:TOTAL_KM>
+                <d:ZONE_PNGRB>ZONE1</d:ZONE_PNGRB>
+                <d:TARIFF_APP>54.00</d:TARIFF_APP>
+                <d:PRICE_APP_DATE>20260313</d:PRICE_APP_DATE>
+                <d:VALID_FROM>20260313</d:VALID_FROM>
+                <d:VALID_TO>99991231</d:VALID_TO>
+                <d:TRANSPORTER>IGGL</d:TRANSPORTER>
+                <d:SHARED_KM>0.000</d:SHARED_KM>
+                <d:UFT_RATIO>73.98</d:UFT_RATIO>
+                <d:INVOICE_AMT>78.99</d:INVOICE_AMT>
+                <d:IGGL_ZN_ID>ZONE2/001</d:IGGL_ZN_ID>
+                <d:REV_ENTITLED>166.64</d:REV_ENTITLED>
+                <d:APPLICABLE_DATE>20251111</d:APPLICABLE_DATE>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/Uft_detailsSet('133%20NEGDCL')</id>
+        <title type="text">Uft_detailsSet('133%20NEGDCL')</title>
+        <updated>2026-10-01T08:25:18Z</updated>
+        <category term="ZGTA_ODATA_SRV.Uft_details" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link href="Uft_detailsSet('133%20NEGDCL')" rel="self" title="Uft_details"/>
+        <content type="application/xml">
+            <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+                <d:UFT_ID>133 NEGDCL</d:UFT_ID>
+                <d:PATH_ID_DESC>IGGL-GAIL Z2</d:PATH_ID_DESC>
+                <d:UNFD_EN_PNT>BAIHATA</d:UNFD_EN_PNT>
+                <d:UNFD_EX_PNT>SV 05 OF GNPL, TEZPUR</d:UNFD_EX_PNT>
+                <d:DELIVERY_PNT>SV 05 OF GNPL, TEZPUR</d:DELIVERY_PNT>
+                <d:TOTAL_KM>1201.000</d:TOTAL_KM>
+                <d:ZONE_PNGRB>ZONE2</d:ZONE_PNGRB>
+                <d:TARIFF_APP>102.86</d:TARIFF_APP>
+                <d:PRICE_APP_DATE>20260313</d:PRICE_APP_DATE>
+                <d:VALID_FROM>20260313</d:VALID_FROM>
+                <d:VALID_TO>99991231</d:VALID_TO>
+                <d:TRANSPORTER>IGGL</d:TRANSPORTER>
+                <d:SHARED_KM>0.000</d:SHARED_KM>
+                <d:UFT_RATIO>73.98</d:UFT_RATIO>
+                <d:INVOICE_AMT>78.99</d:INVOICE_AMT>
+                <d:IGGL_ZN_ID>ZONE2/001</d:IGGL_ZN_ID>
+                <d:REV_ENTITLED>166.64</d:REV_ENTITLED>
+                <d:APPLICABLE_DATE>20251111</d:APPLICABLE_DATE>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/Uft_detailsSet('UFT%20130')</id>
+        <title type="text">Uft_detailsSet('UFT%20130')</title>
+        <updated>2026-10-01T08:25:18Z</updated>
+        <category term="ZGTA_ODATA_SRV.Uft_details" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link href="Uft_detailsSet('UFT%20130')" rel="self" title="Uft_details"/>
+        <content type="application/xml">
+            <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+                <d:UFT_ID>UFT 130</d:UFT_ID>
+                <d:PATH_ID_DESC>IGGL UFT Z1</d:PATH_ID_DESC>
+                <d:UNFD_EN_PNT>RT NRL</d:UNFD_EN_PNT>
+                <d:UNFD_EX_PNT>SV 05 OF GNPL</d:UNFD_EX_PNT>
+                <d:DELIVERY_PNT>SV 05 OF GNPL</d:DELIVERY_PNT>
+                <d:TOTAL_KM>267.000</d:TOTAL_KM>
+                <d:ZONE_PNGRB>ZONE1</d:ZONE_PNGRB>
+                <d:TARIFF_APP>54.00</d:TARIFF_APP>
+                <d:PRICE_APP_DATE>20260625</d:PRICE_APP_DATE>
+                <d:VALID_FROM>20260625</d:VALID_FROM>
+                <d:VALID_TO>20260930</d:VALID_TO>
+                <d:TRANSPORTER>IGGL</d:TRANSPORTER>
+                <d:SHARED_KM>0.000</d:SHARED_KM>
+                <d:UFT_RATIO>73.98</d:UFT_RATIO>
+                <d:INVOICE_AMT>78.99</d:INVOICE_AMT>
+                <d:IGGL_ZN_ID>ZONE2/001</d:IGGL_ZN_ID>
+                <d:REV_ENTITLED>166.64</d:REV_ENTITLED>
+                <d:APPLICABLE_DATE>20251111</d:APPLICABLE_DATE>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://192.162.2.34:44300/sap/opu/odata/sap/ZGTA_ODATA_SRV/Uft_detailsSet('UFT%20131')</id>
+        <title type="text">Uft_detailsSet('UFT%20131')</title>
+        <updated>2026-10-01T08:25:18Z</updated>
+        <category term="ZGTA_ODATA_SRV.Uft_details" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link href="Uft_detailsSet('UFT%20131')" rel="self" title="Uft_details"/>
+        <content type="application/xml">
+            <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+                <d:UFT_ID>UFT 131</d:UFT_ID>
+                <d:PATH_ID_DESC>IGGL UFT Z2</d:PATH_ID_DESC>
+                <d:UNFD_EN_PNT>RT NRL</d:UNFD_EN_PNT>
+                <d:UNFD_EX_PNT>SV 01 OF GNPL</d:UNFD_EX_PNT>
+                <d:DELIVERY_PNT>SV 01 OF GNPL</d:DELIVERY_PNT>
+                <d:TOTAL_KM>367.000</d:TOTAL_KM>
+                <d:ZONE_PNGRB>ZONE2</d:ZONE_PNGRB>
+                <d:TARIFF_APP>110.02</d:TARIFF_APP>
+                <d:PRICE_APP_DATE>20260702</d:PRICE_APP_DATE>
+                <d:VALID_FROM>20260702</d:VALID_FROM>
+                <d:VALID_TO>20260930</d:VALID_TO>
+                <d:TRANSPORTER>IGGL</d:TRANSPORTER>
+                <d:SHARED_KM>0.000</d:SHARED_KM>
+                <d:UFT_RATIO>73.98</d:UFT_RATIO>
+                <d:INVOICE_AMT>78.99</d:INVOICE_AMT>
+                <d:IGGL_ZN_ID>ZONE2/001</d:IGGL_ZN_ID>
+                <d:REV_ENTITLED>166.64</d:REV_ENTITLED>
+                <d:APPLICABLE_DATE>20251111</d:APPLICABLE_DATE>
+            </m:properties>
+        </content>
+    </entry>
+</feed>
