@@ -71,15 +71,21 @@ TEMPLATES = [
 WSGI_APPLICATION = 'config.wsgi.application'
 
 # Database Configuration
-# Default to MySQL as requested, with fallback to SQLite for local development/testing
-DB_ENGINE = os.getenv('DB_ENGINE', 'django.db.backends.mysql')
+_db_engine_env = os.getenv('DB_ENGINE', 'django.db.backends.mysql').lower()
+if _db_engine_env in ('mysql', 'django.db.backends.mysql'):
+    DB_ENGINE = 'django.db.backends.mysql'
+elif _db_engine_env in ('sqlite', 'sqlite3', 'django.db.backends.sqlite3'):
+    DB_ENGINE = 'django.db.backends.sqlite3'
+else:
+    DB_ENGINE = os.getenv('DB_ENGINE', 'django.db.backends.mysql')
+
 DB_NAME = os.getenv('DB_NAME', 'iggl_db')
 DB_USER = os.getenv('DB_USER', 'root')
 DB_PASSWORD = os.getenv('DB_PASSWORD', '')
 DB_HOST = os.getenv('DB_HOST', '127.0.0.1')
 DB_PORT = os.getenv('DB_PORT', '3306')
 
-if os.getenv('USE_SQLITE', 'False').lower() in ('true', '1'):
+if os.getenv('USE_SQLITE', 'False').lower() in ('true', '1') or DB_ENGINE == 'django.db.backends.sqlite3':
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.sqlite3',
@@ -180,6 +186,7 @@ USE_I18N = True
 USE_TZ = True
 
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 MEDIA_URL = 'media/'
 MEDIA_ROOT = BASE_DIR / 'media'
 
